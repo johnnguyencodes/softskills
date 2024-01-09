@@ -3,7 +3,7 @@
 <p align="center">
   A Gatsby starter to get you started creating educational materials using Markdown
 </p>
-
+ 
 ## Get Started
 
 1. `npm install --global gatsby-cli` - make sure you're on Gatsby v2+
