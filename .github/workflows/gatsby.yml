@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
+      - name: node
+        uses: actions/setup-node@v4
+        with:
+            node-version: 16
+            registry-url: https://registry.npmjs.org
       - name: npm install, build, and csv
         run: |
           npm install
