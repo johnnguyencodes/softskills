@@ -18,7 +18,7 @@ module.exports = {
       "will index your page for",
     ],
   },
-  pathPrefix: "",
+  pathPrefix: "softskills",
   // pathPrefix: "/my-repo-name", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     {
