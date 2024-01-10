@@ -25,8 +25,36 @@ Your approach to the code, how you overcome your challenges, and the way you wor
 
 I want to talk about my personal journey through my code. I hope sharing my perspective, especially as a someone who manages other junior web developers, can help you reframe this perspective.
 
+</br>
+
 > Developing your soft skills will make you stand out. LearningFuze is the perfect place to practice.
 
 </br>
 
-##### But first, let's set some context.
+##### And I can help!
+
+I'll be dedicating one hour each day to host 1:1 Alumni Mentorship sessions starting on Monday, January 15th.
+
+[Click here to book an appointment!](https://calendly.com/jnguyen-lfz/1-1-alumni-mentorship)
+
+</br>
+
+<img src="./images/lfz-mentorship.png">
+
+</br>
+
+I will also be hosting Whiteboard Wizards on Saturdays from 10:00AM to 12:00PM. This will be your opportunity to practice your live coding sessions as we practice Leetcode-style questions together. They will alternate between being remote and in-person at the LFZ building.
+
+The first Whiteboard Wizards session will be <strong>remote</strong> on Zoom on Saturday, January 20th at 10:00AM.
+
+The second Whiteboard Wizards session will be <strong>in person</strong> on Saturday, January 27th at 10:00AM.
+
+Stay tuned for announcements in the slack channels.
+
+</br>
+
+<img src="./images/lfz-whiteboard-wizards.png">
+
+</br>
+
+##### Now, let me introduce myself next.
