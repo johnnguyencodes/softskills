@@ -3,8 +3,8 @@ path: "/11-rock-bottom"
 title: "Climbing out from the bottom"
 order: "2A"
 section: "Learning how to tell my story"
-description: "this is the description that will show up in social shares"
-icon: "fas fa-user-check"
+description: "How LearningFuze helped me develop soft skills to become an effective developer"
+icon: "fas fa-edit"
 ---
 
 </br>

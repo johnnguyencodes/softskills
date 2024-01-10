@@ -3,8 +3,8 @@ path: "/13-you-are-more-than-your-code"
 title: "Resume tips to highlight your soft skills"
 order: "2C"
 section: "Learning how to tell my story"
-description: "this is the description that will show up in social shares"
-icon: "fas fa-user-check"
+description: "How LearningFuze helped me develop soft skills to become an effective developer"
+icon: "fas fa-edit"
 ---
 
 So let's take a step back and think about LearningFuze as a whole.

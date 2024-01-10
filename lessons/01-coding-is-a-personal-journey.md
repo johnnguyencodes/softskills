@@ -3,7 +3,7 @@ path: "/01-coding-is-a-personal-journey"
 title: "Coding is a personal journey"
 order: "1A"
 section: "Intro: setting the scene"
-description: "this is the description that will show up in social shares"
+description: "How LearningFuze helped me develop soft skills to become an effective developer"
 icon: "fas fa-user-check"
 ---
 
