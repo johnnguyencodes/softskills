@@ -3,7 +3,7 @@ path: "/03-past"
 title: "Who I was"
 order: "1C"
 section: "Intro: setting the scene"
-description: "this is the description that will show up in social shares"
+description: "How LearningFuze helped me develop soft skills to become an effective developer"
 icon: "fas fa-user-check"
 ---
 
