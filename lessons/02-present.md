@@ -56,7 +56,7 @@ icon: "fas fa-user-check"
 
 - [My spotify playlist (easy to dance to hip hop, r&b, and house)](https://open.spotify.com/playlist/3lxSdzjb4rGXZ1td1kkNZl?si=cxw0nUgtR36Id2S0VbFU_A&pi=u-HNJgU-wnQ9Oy)
 
-The links below are YouTube videos:
+The links below are YouTube videos. Some things to maybe look into once you're gainfully employed.
 
 - [I WISH I Knew These Tailwind Tips Earlier](https://youtu.be/QBajvZaWLXs?si=Lu0e3xx5aKS7-5ca)
 - [Is This the Perfect Custom Keyboard? (Beginner-Friendly)](https://youtu.be/dg2TT1OJlQs?si=Etwj73aEOAWj9yJU)
